@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Çatalbaş</h1>
 <h3 align="center">A Software developer from Osmaniye/Turkey</h3>
 
-- 🌱 I’m currently learning **React.js, React Native,.NET Core**
+- 🌱 I’m currently learning **React.js, React Native,Java Spring Boot
 
 - 📫 How to reach me **abdullahhcatalbas@gmail.com**
 
